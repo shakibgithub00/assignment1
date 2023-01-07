@@ -59,7 +59,8 @@
     margin-bottom: 300px;
 
 }
-.img-failures{
+
+.img-failures {
     width: 570px;
     height: 724px;
     margin-left: 200px;
@@ -93,7 +94,8 @@
     color: #444343;
     margin-bottom: 20px;
 }
-.iteam-option{
+
+.iteam-option {
     width: 350px;
     height: 165px;
     font-weight: 400;
@@ -101,3 +103,136 @@
     line-height: 30px;
     color: #444343;
 }
+
+/* My plans Style */
+
+.plan-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 100px;
+}
+
+.plan-iteams {
+    display: flex;
+    gap: 150px;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 300px;
+}
+
+.iteam-title {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.iteam-description {
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    color: #737272;
+    margin-top: 20px;
+}
+
+.image-gradient {
+    background-image: linear-gradient(90deg, #00439b 0%, rgba(4, 137, 247, 0)100%), url('../images/watch.png');
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    margin-bottom: 350px;
+    margin-left: 400px;
+    border-radius: 10px;
+
+}
+
+.image-content {
+    padding: 70px;
+
+}
+
+.image-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.image-content .btn-primary {
+    background: white;
+    color: rgb(2, 138, 250);
+}
+
+/*footer style*/
+
+.footer {
+    background: #121212;
+    width: 100%;
+    background: cover;
+    height: 600px;
+}
+
+.footer-items {
+    display: flex;
+    gap: 400px;
+    justify-content: center;
+}
+
+.items-future {
+    margin-top: 200px;
+    color: white;
+}
+
+.future-title {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.future-description {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mail {
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.phone {
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.item-subscribe {
+    margin-top: 200px;
+    color: white;
+}
+
+.subscribe-title {
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.enter-mail {
+    width: 325px;
+    height: 64px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    box-sizing: border-box;
+    background: #121212;
+    padding: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #ffffff;
+
+}
+
+/* The End */
